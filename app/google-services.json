@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1070717771370",
+    "project_id": "testapk-distributionfromgithub",
+    "storage_bucket": "testapk-distributionfromgithub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070717771370:android:3863d8c14a8fd444e33413",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIPR47uIhT2Vd_Lt5v31vN5OeOMoBEzJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070717771370:android:0550a3be378becb1e33413",
+        "android_client_info": {
+          "package_name": "com.jreddy.pushapk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIPR47uIhT2Vd_Lt5v31vN5OeOMoBEzJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
